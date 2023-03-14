@@ -21,5 +21,3 @@ class AnonymousInner{
         anonymousObj.makeSound();
     }
 }
-
-//checked
